@@ -1,0 +1,101 @@
+ADD ahh89.com/
+ADD bit.ly/18Csmbt/
+ADD blog.kim82536.pe.kr//
+ADD can77.com//
+ADD ch-22.com/
+ADD crd-707.com//
+ADD de676.com/
+ADD ew7979.com//
+ADD gall.dcinside.com/
+ADD github.com/kcrong/
+ADD github.com/snoopspy/
+ADD hibogo.net/
+ADD ilover4010.com/
+ADD kcrong.tistory.com//
+ADD kings-333.com/
+ADD kr.battle.net/heroes/ko//
+ADD log24.kr//
+ADD marumaru.in//
+ADD mtmoa.com//
+ADD ndfsk.dyndns.org//
+ADD onenable.net//
+ADD sex.com/
+ADD SG.yigin.xyz/N/
+ADD sports077.com/
+ADD sub2015.16mb.com//
+ADD Sun-8080.com/
+ADD www.8000sbs.com//
+ADD www.afv869.com//
+ADD www.aindf.com/
+ADD www.apetube.com//
+ADD www.arirang-meari.com//
+ADD www.bommin.net/
+ADD www.cnet-ta.ne.jp/juche/defaulte.htm/
+ADD www.dprkoreamusic.com/
+ADD www.evenoddss.com/
+ADD www.gilgil.net/
+ADD www.grooveshark.com/
+ADD www.jsyadong.com/
+ADD www.kcna.kp//
+ADD www.kcna.kp/kcna.user.home.retrieveHomeInfoList.kcmsf/
+ADD www.korea-np.co.jp/
+ADD www.korelcfund.org.kp/
+ADD www.ksf.com.kp/kp/
+ADD www.lacotv1.com//
+ADD www.marumaru.in/
+ADD www.megalian.com//
+ADD www.mojomojo24.com/
+ADD www.mukjob.net//
+ADD www.nafara.co.kr//
+ADD www.nineteentube.com//
+ADD www.onekorea.org/
+ADD www.ournation-school.com//
+ADD www.party86.com/
+ADD www.president.go.kr//
+ADD www.ryongnamsan.edu.kp/
+ADD sca330.com//
+ADD www.silibank.com//
+ADD www.snoopspy.com/
+ADD www.todayhumor.co.kr//
+ADD www.uriminzokkiri.com//
+ADD www.youporn.com//
+ADD xtube.com/
+ADD yadong.com/
+OPENED WinDivert
+URL ahh89.com/PcAccount: BLOCKED!
+URL ahh89.com/favicon.ico: BLOCKED!
+URL www.aindf.com/: BLOCKED!
+URL www.aindf.com/favicon.ico: BLOCKED!
+URL www.naver.com/: ALLOWED
+URL www.naver.com/: ALLOWED
+URL img.naver.net/static/newsstand/up/2014/0715/025.gif: ALLOWED
+URL img.naver.net/static/www/mobile/edit/2016/0720/mobile_160712917770.jpg: ALLOWED
+URL img.naver.net/static/www/mobile/edit/2016/0811/mobile_141042305731.jpg: ALLOWED
+URL img.naver.net/static/www/mobile/edit/2016/0809/mobile_14143190559.jpg: ALLOWED
+URL img.naver.net/static/www/mobile/edit/2016/0802/mobile_180414275925.jpg: ALLOWED
+URL img.naver.net/static/www/mobile/edit/2016/0811/mobile_135923300941.jpg: ALLOWED
+URL img.naver.net/static/www/mobile/edit/2016/0811/mobile_141638700175.jpg: ALLOWED
+URL img.naver.net/static/www/mobile/edit/2016/0809/mobile_14190940228.jpg: ALLOWED
+URL img.naver.net/static/www/mobile/edit/2016/0811/mobile_140603431382.jpg: ALLOWED
+URL lcs.naver.com/m?u=http%3A%2F%2Fwww.naver.com%2F&e=&i=&os=Win32&ln=ko&sr=1600x900&bw=1583&bh=775&c=24&j=N&jv=1.8&k=Y&fv=22.0&sl=&ct=&cta=N&p=Widevine%20Content%20Decryption%20Module%3BChrome%20PDF%20Viewer%3BShockwave%20Flash%3BNative%20Client&ls=EBLDIHVUTHBVM&EOU: ALLOWED
+URL nv1.veta.naver.com/dr?unit=002AN&tbsz=2&nrefreshx=0: ALLOWED
+URL static.nid.naver.com/enclogin/ipsec.nhn?callback=setSmartLevel&level=1: ALLOWED
+URL nv.veta.naver.com/dr?unit=002AT&da_dom_id=veta_timesquare: ALLOWED
+URL nv2.veta.naver.com/dr?unit=002AP&nrefreshx=0: ALLOWED
+URL castbox.shopping.naver.com/sbox/main.nhn: ALLOWED
+URL nv1.tveta.naver.net/libs/1134/1134285/20160810184245-mFZLyYNt.jpg: ALLOWED
+URL www.naver.com/include/newsstand/press_info.json: ALLOWED
+URL www.naver.com/include/timesquare/weatherLife/09290.json: ALLOWED
+URL img.naver.net/static/www/mobile/edit/2016/0811/mobile_142115421383.jpg: ALLOWED
+URL img.naver.net/static/www/mobile/edit/2016/0726/mobile_120554535980.jpg: ALLOWED
+URL img.naver.net/static/www/mobile/edit/2016/0810/mobile_112527174545.jpg: ALLOWED
+URL img.naver.net/static/www/mobile/edit/2016/0809/mobile_133435329509.jpg: ALLOWED
+URL img.naver.net/static/www/mobile/edit/2016/0810/mobile_112532540791.jpg: ALLOWED
+URL img.naver.net/static/www/mobile/edit/2016/0810/mobile_112629969297.jpg: ALLOWED
+URL img.naver.net/static/www/mobile/edit/2016/0810/mobile_112634533153.jpg: ALLOWED
+URL shopping.phinf.naver.net/20160812_23/0286a682-733a-4b95-9df5-02ff1429722d.jpg: ALLOWED
+URL shopping.phinf.naver.net/20160810_0/0000a062-80f3-4269-9a1b-a58558a03d30.jpg: ALLOWED
+URL shopping.phinf.naver.net/20160809_7/9ee4824a-344a-4b84-b96b-50a7012450ca.jpg: ALLOWED
+URL nv.veta.naver.com/dr?unit=002AP&ac=7135981&src=2920704&rk=V611EQpizS8AAA7MmOYAAAQA&eltts=FUoGotDd9kUWuMtw%2BjOvZg%3D%3D&t=i&dummy=0.6272071224918649: ALLOWED
+URL nv2.tveta.naver.net/libs/1137/1137994/20160804150611-s0XeXesL.jpg: ALLOWED
+URL nv.veta.naver.com/dv?unit=002AN&ac=7154009&src=2926764&eid=V803&rk=V611EQpizWEAAHaZ6MMAAAFC&eltts=FUoGotDd9kUWuMtw%2BjOvZg%3D%3D&dummy=0.6209985299970957: ALLOWED
